@@ -1,3 +1,3 @@
-# linked-blog-starter-md
-These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
-nice
+# My Obsidian vault
+
+This is my Obsidian vault for everything. here I'll store some of my knowledge about web-development.
